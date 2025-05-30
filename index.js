@@ -22,5 +22,5 @@ const checkout = {
 checkout.addItem({ name: "Coffee Maker", price: "99.95" });
 checkout.addItem({ name: "Milk", price: 3.50 });
 
-console.log(checkout.getTotal()); // Total: $103.45
+console.log(checkout.getTotal()); 
 
